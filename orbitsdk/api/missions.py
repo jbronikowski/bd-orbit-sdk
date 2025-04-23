@@ -105,7 +105,7 @@ class Missions(object):
                         "dispatchTarget": {
                             "walk": walk
                         },
-                        "forceAcquireEstop": False,
+                        "forceAcquireEstop": True,
                         "requireDocked": False,
                         "skipInitialization": True
                     },
